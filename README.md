@@ -4,7 +4,7 @@
 
 As an experienced 1st- and 2nd-Level IT-Supporter I want to learn more about Software. I love to do stuff on both ends. Hardware and Software!
 
-## 🔧 Technologies & Tools:
+## 🔧 Technologies & Tools
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -19,4 +19,8 @@ As an experienced 1st- and 2nd-Level IT-Supporter I want to learn more about Sof
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+## Where to find me
+<p><a href="https://github.com/alex96dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/alexander-stracke-33056b2b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.xing.com/profile/Alexander_Stracke4" target="_blank"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?&style=for-the-badge&logo=xing&logoColor=white" /></a>
 </p>
