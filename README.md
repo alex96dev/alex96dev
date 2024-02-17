@@ -22,6 +22,6 @@ As an experienced 1st- and 2nd-Level IT-Supporter I want to learn more about Sof
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-## Where to find me
+## 🔍 Where to find me
 <p><a href="https://github.com/alex96dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/alexander-stracke-33056b2b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.xing.com/profile/Alexander_Stracke4" target="_blank"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?&style=for-the-badge&logo=xing&logoColor=white" /></a>
 </p>
