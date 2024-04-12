@@ -2,7 +2,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-As an experienced 1st- and 2nd-Level IT-Supporter I want to learn more about Software. I love to do stuff on both ends. Hardware and Software!
+As an experienced 1st- and 2nd-Level IT-Supporter I want to learn more about Software. I enjoy to doing stuff on both ends. Hardware and Software!
 
 ## 🔧 Technologies & Tools
 <p>
